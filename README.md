@@ -1,5 +1,5 @@
 # Lisa
-Full incoming OLED notifications. [Support for rootless jailbreaks on iOS 15+](https://onejailbreak.com/blog/lisa-tweak/)
+Full incoming OLED notifications. For version with [support for rootless jailbreaks on iOS 15+](https://onejailbreak.com/blog/lisa-tweak/) follow this link.
 
 ## Installation
 1. Add this repository to your Package Manager: https://repo.litten.love
